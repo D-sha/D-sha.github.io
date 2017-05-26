@@ -37,8 +37,8 @@ Minor opcode of failed r
 Turns out theres a problem that android supplied stdc++ not being compatible with the rest of the system.
 This fixed it for me: (Debian stretch linux)
 
-> mv ${android-sdk-install-dir}/tools/lib64/libstdc++/libstdc++.so.6 ${android-sdk-install-dir}/tools/lib64/libstdc++/libstdc++.so.6.bak
-ln -s /usr/lib/x86_64-linux-gnu/libstdc++.so.6 ${android-sdk-install-dir}/tools/lib64/libstdc++/libstdc++.so.6
+> mv ${android-sdk-install-dir}/tools/lib64/libstdc++/libstdc++.so.6 ${android-sdk-install-dir}/tools/lib64/libstdc++/libstdc++.so.6.bak  
+ln -s /usr/lib/x86_64-linux-gnu/libstdc++.so.6 ${android-sdk-install-dir}/tools/lib64/libstdc++/libstdc++.so.6  
 (obviously substituting your own ${android-sdk-install-dir})
 now the emulator boots but woulden't close...
 credit for this solution goes to [stackoverflow.com](http://stackoverflow.com/questions/36189393/android-studio-avd-error-launching") and [code.google.com](https://code.google.com/p/android/issues/detail?id=197254#c23)
