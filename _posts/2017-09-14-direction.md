@@ -2,6 +2,7 @@
 layout: post
 title: Taken a direction
 categories: programming code android
+comments: true
 ---
 
 So I've been writing and reading code for a while now, but I feel as if I'm only scratching the surface.
