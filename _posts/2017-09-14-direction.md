@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Taken a direction
-categories: programming code android
+tags: [programming, code, android]
 ---
 
 So I've been writing and reading code for a while now, but I feel as if I'm only scratching the surface.

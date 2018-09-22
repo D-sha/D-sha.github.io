@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Web Logging
-categories: blog
+tags: [blog]
 ---
 
 ### How to get started blogging

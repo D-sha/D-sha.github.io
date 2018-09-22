@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building MobileOrg
-categories: android avd debian emacs emulator linux mobileorg
+tags: [android, avd, debian, emacs, emulator, linux, mobileorg]
 ---
 
     ported from my old blog
