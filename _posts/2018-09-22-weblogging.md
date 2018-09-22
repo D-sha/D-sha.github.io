@@ -1,8 +1,8 @@
 ---
 layout: post
+comments: true
 title: Web Logging
 tags: [blog]
-comments: true
 ---
 
 ### How to get started blogging
