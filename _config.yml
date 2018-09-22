@@ -6,7 +6,7 @@ title:               Coders Blog
 tagline:             ''
 description:         A blog where I log my technical activities with some code thrown in for good measure
 baseurl:             ''
-paginate:            5
+paginate:            4
 
 # About/contact
 author:
