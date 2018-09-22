@@ -1,3 +1,6 @@
+gems:
+  - jekyll-seo-tag
+
 # Setup
 title:               Coders Blog
 tagline:             ''
@@ -13,9 +16,8 @@ url:                 http://www.D-sha.github.io
 # Custom vars
 version:             1.0.0
 
+
 site:
 github:
 repo: https://github.com/D-sha/D-sha.github.io
 
-plugins_dir:
-  - jekyll-seo-tag
