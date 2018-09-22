@@ -2,6 +2,7 @@
 layout: post
 title: Web Logging
 tags: [blog]
+comments: true
 ---
 
 ### How to get started blogging
